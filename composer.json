@@ -13,6 +13,9 @@
         "php": ">=7.0",
         "laravel/framework":"~5.4"
     },
+    "require-dev": {
+        "laravel/laravel": "~5.4"
+    },
     "autoload": {
         "psr-4": {
             "Zc\\Query\\": "src/Query/"
