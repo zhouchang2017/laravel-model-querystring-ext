@@ -1,7 +1,7 @@
 {
     "name": "zhouchang2017/laravel-model-querystring-ext",
     "description": "queryString expansion based on laravel model",
-    "type": "library",
+    "type": "laravel-extension",
     "license": "MIT",
     "authors": [
         {
