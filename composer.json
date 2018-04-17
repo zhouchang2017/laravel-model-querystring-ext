@@ -1,0 +1,21 @@
+{
+    "name": "zhouchang2017/laravel-model-querystring-ext",
+    "description": "queryString expansion based on laravel model",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhouchang",
+            "email": "290621352@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zc\\Query\\": "src/Query/"
+        }
+    }
+}
