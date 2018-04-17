@@ -3,6 +3,7 @@
     "description": "queryString expansion based on laravel model",
     "type": "laravel-extension",
     "license": "MIT",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "zhouchang",
